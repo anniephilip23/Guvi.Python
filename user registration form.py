@@ -145,7 +145,7 @@ while (count == "y"):
                 f.write("%s" % list1)
                 f.close()
                 print("Thank You!")
-                count = 'n'
+                count = 'y'
 
             else:
                 print("Login Failed")
